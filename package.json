@@ -1,0 +1,12 @@
+{
+  "name": "uws",
+  "version": "10.148.0-lum.19",
+  "main": "./uws.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luminati-io/uWebsockets-bindings.git"
+  },
+  "exports": {
+    "require": "./uws.js"
+  }
+}
